@@ -1,0 +1,10 @@
+#	###classes, datatypes, C++ keywords
+#	foo                   KEYWORD1
+#	
+#	###functions and methods
+#	bar                   KEYWORD2
+#	
+#	baz                   KEYWORD3
+#	
+#	###Constants
+#	xyzzy                 LITERAL1
